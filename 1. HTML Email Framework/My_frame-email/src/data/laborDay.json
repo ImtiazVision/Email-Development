@@ -1,0 +1,23 @@
+{
+  "title": "40% off on labor day",
+  "products" : [
+    {
+      "title": "Yeezy 720 Boost",
+      "price": 400,
+      "product_url": "https://cdn.flightclub.com/1500/TEMPLATE/253227/1.jpg",
+      "image_url": "https://cdn.flightclub.com/1500/TEMPLATE/253227/1.jpg"
+    },
+    {
+      "title": "Air Jordans 13",
+      "price": 200,
+      "product_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdailysole.com%2Fwp-content%2Fuploads%2F2020%2F04%2Fair-jordan-13-retro-flint-414571-404-pair-1024x576.jpeg&f=1&nofb=1",
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdailysole.com%2Fwp-content%2Fuploads%2F2020%2F04%2Fair-jordan-13-retro-flint-414571-404-pair-1024x576.jpeg&f=1&nofb=1"
+    },
+    {
+      "title": "Lebrons 8",
+      "price": 165,
+      "product_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fa248.e.akamai.net%2Ff%2F248%2F9086%2F10h%2Forigin-d5.scene7.com%2Fis%2Fimage%2Fsneakerhead%2Fsnusa-detail_20-sf%3F%241120x700%24%26%24img%3Dsneakerhead%2Fnike-lebron-8-ps-basketball-shoes441946400-1&f=1&nofb=1",
+      "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fa248.e.akamai.net%2Ff%2F248%2F9086%2F10h%2Forigin-d5.scene7.com%2Fis%2Fimage%2Fsneakerhead%2Fsnusa-detail_20-sf%3F%241120x700%24%26%24img%3Dsneakerhead%2Fnike-lebron-8-ps-basketball-shoes441946400-1&f=1&nofb=1"
+    }
+  ]
+}
